@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Ürün 1",
+      "price": 100,
+      "stock": 50,
+      "inStock": true,
+      "id": 1
+    },
+    {
+      "name": "Ürün 2",
+      "price": 200,
+      "stock": 40,
+      "inStock": true,
+      "id": 2
+    },
+    {
+      "name": "Ürün 3",
+      "price": 500,
+      "stock": 100,
+      "inStock": true,
+      "id": 3
+    }
+  ]
+}
