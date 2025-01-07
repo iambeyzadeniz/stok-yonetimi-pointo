@@ -19,9 +19,11 @@ Bu proje, ürünlerin stok durumlarını yönetmek için geliştirilmiş bir Rea
 1. **Projeyi bilgisayarınıza klonlayın:**
    ```bash
    git clone https://github.com/iambeyzadeniz/stok-yonetimi-pointo.git
-   Proje dizinine girin:
+  
    ```
-
+   
+Proje dizinine girin:
+ 
 `cd stok-yonetimi-pointo`
 
 Bağımlılıkları Yükleyin:
